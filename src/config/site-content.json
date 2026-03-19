@@ -1,11 +1,11 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "S"
+		"title": "Homo Faber",
+		"description": "gesiiss的个人博客",
+		"username": "gesiiss"
 	},
 	"theme": {
-		"colorBrand": "#de4331",
+		"colorBrand": "#3B3034",
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#FCC841",
@@ -15,12 +15,12 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#FCC841",
-		"#DFEFFC",
-		"#DEDE92",
-		"#DE4331",
-		"#FE9750",
-		"#FCC841"
+		"#61CA75",
+		"#6D0B70",
+		"#994210",
+		"#3DC8D9",
+		"#779FEE",
+		"#DFBC12"
 	],
 	"artImages": [
 		{
@@ -32,7 +32,7 @@
 			"url": "/images/art/a46372ff45bc5524.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -42,25 +42,25 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
-			"order": 3
+			"id": "email",
+			"type": "email",
+			"value": "sunkong264@gmail.com",
+			"label": "",
+			"order": 1
 		},
 		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"id": "github",
+			"type": "bilibili",
+			"value": "Funwrda",
+			"label": "",
 			"order": 2
 		},
 		{
-			"id": "email",
-			"type": "email",
-			"value": "yysuni1001@gmail.com",
-			"label": "",
-			"order": 1
+			"id": "juejin",
+			"type": "qq",
+			"value": "3175565005",
+			"label": "稀土掘金",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
@@ -68,7 +68,7 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 7,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
