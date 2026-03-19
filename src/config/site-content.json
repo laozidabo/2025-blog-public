@@ -24,22 +24,26 @@
 	],
 	"artImages": [
 		{
-			"id": "cat",
-			"url": "/images/art/cat.png"
+			"id": "1db7f8ed2bd83cb4",
+			"url": "/images/art/1db7f8ed2bd83cb4.jpeg"
 		},
 		{
-			"id": "a46372ff45bc5524",
-			"url": "/images/art/a46372ff45bc5524.jpg"
+			"id": "6007dc23654f6e97",
+			"url": "/images/art/6007dc23654f6e97.jpeg"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "1db7f8ed2bd83cb4",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "fd7860185774cfa5",
+			"url": "/images/background/fd7860185774cfa5.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "fd7860185774cfa5",
 	"socialButtons": [
 		{
 			"id": "email",
@@ -68,7 +72,7 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 7,
+	"currentHatIndex": 21,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
