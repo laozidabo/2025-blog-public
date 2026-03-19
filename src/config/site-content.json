@@ -32,18 +32,18 @@
 			"url": "/images/art/6007dc23654f6e97.jpeg"
 		}
 	],
-	"currentArtImageId": "1db7f8ed2bd83cb4",
+	"currentArtImageId": "6007dc23654f6e97",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
 		},
 		{
-			"id": "fd7860185774cfa5",
-			"url": "/images/background/fd7860185774cfa5.png"
+			"id": "b7777deca0637e6d",
+			"url": "/images/background/b7777deca0637e6d.jpeg"
 		}
 	],
-	"currentBackgroundImageId": "fd7860185774cfa5",
+	"currentBackgroundImageId": "b7777deca0637e6d",
 	"socialButtons": [
 		{
 			"id": "email",
@@ -67,7 +67,7 @@
 			"order": 3
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
