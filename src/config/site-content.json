@@ -74,7 +74,7 @@
 	"enableCategories": true,
 	"currentHatIndex": 21,
 	"hatFlipped": false,
-	"enableChristmas": false,
+	"enableChristmas": true,
 	"beian": {
 		"text": "",
 		"link": ""
