@@ -48,7 +48,7 @@
 		{
 			"id": "github",
 			"type": "bilibili",
-			"value": "Funwrda",
+			"value": "https://space.bilibili.com/3546852838345422",
 			"label": "",
 			"order": 2
 		},
@@ -60,9 +60,9 @@
 			"order": 3
 		},
 		{
-			"id": "button-1774009880381",
+			"id": "button-1774010723660",
 			"type": "wechat",
-			"value": "/images/social-buttons/3a65f0f4d2b9695b.jpeg",
+			"value": "gesiiss",
 			"label": "",
 			"order": 3
 		}
