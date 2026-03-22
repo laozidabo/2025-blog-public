@@ -24,26 +24,22 @@
 	],
 	"artImages": [
 		{
-			"id": "1db7f8ed2bd83cb4",
-			"url": "/images/art/1db7f8ed2bd83cb4.jpeg"
-		},
-		{
-			"id": "6007dc23654f6e97",
-			"url": "/images/art/6007dc23654f6e97.jpeg"
+			"id": "0d4669ddf29f933b",
+			"url": "/images/art/0d4669ddf29f933b.webp"
 		}
 	],
-	"currentArtImageId": "6007dc23654f6e97",
+	"currentArtImageId": "0d4669ddf29f933b",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
 		},
 		{
-			"id": "68e95e70dfc332a5",
-			"url": "/images/background/68e95e70dfc332a5.webp"
+			"id": "f6abd3386299a5ba",
+			"url": "/images/background/f6abd3386299a5ba.webp"
 		}
 	],
-	"currentBackgroundImageId": "68e95e70dfc332a5",
+	"currentBackgroundImageId": "f6abd3386299a5ba",
 	"socialButtons": [
 		{
 			"id": "github",
